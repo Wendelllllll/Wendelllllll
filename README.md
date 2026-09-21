@@ -1,24 +1,26 @@
 # Jose Wang
 
-I'm based in San Diego, with a background in molecular biology, drug discovery, and an M.S. in Data Science from UC San Diego. I build projects that connect scientific questions with data and software.
+Hey, I'm Jose. Based in San Diego, with a background in molecular biology, drug discovery, and an M.S. in Data Science from UC San Diego. These days, I'm putting that mix to work through data projects and software for science.
 
 [LinkedIn](https://www.linkedin.com/in/wendelll/) · [Email](mailto:wendellwang468@gmail.com)
 
 ## How I build
 
-I start by listing what needs to be done, then work through it one item at a time. I usually build a demo early so I can try things out and see what needs to change.
+First, I make a list. Then I work through it, one thing at a time. I like getting a demo running early—it's easier to figure out what works when there's something to actually click around in.
 
-I use AI as part of my workflow, while keeping the work within what I can understand, review, and control. My projects keep evolving as new ideas come up. I also follow new technologies, learn how they work, and look for useful ways to apply them to what I'm building.
+I use all kinds of tools, as long as I can understand what's going on and stay in control of what I'm building. My projects rarely stay “done” for long. A new idea shows up, and I'm back making changes.
+
+I also keep an eye on new tech. If something looks useful, I'll learn it, try it out, and see where it fits. There's usually a project waiting to be the test subject.
 
 ## Previous projects
 
-- **Clinical outcomes analysis** — Studied SGLT2 inhibitor exposure and kidney-function decline in a cohort of 1,197 patients with type 2 diabetes using Cox survival models.
-- **NASA telemetry anomaly detection** — Built time-series modeling workflows with separate training and test data to avoid information leakage.
+- **Clinical outcomes analysis** — Used Cox survival models to explore SGLT2 inhibitor exposure and kidney-function decline in 1,197 patients with type 2 diabetes.
+- **NASA telemetry anomaly detection** — Worked with spacecraft time-series data to spot unusual patterns, keeping training and test data separate.
 
 ## Current focus
 
-I'm building the website and ordering platform for **SeqForge**, an established sequencing company formerly known as **Retrogen**. The existing web experience needs an update, and I'm working on both the public website and the customer workflow—from sample submission to order tracking and result delivery.
+Giving **SeqForge**—a long-established sequencing company formerly known as **Retrogen**—a web refresh that's overdue.
 
-The project is in active development, with updates shaped by customer feedback and the lab's day-to-day needs.
+I'm building the public website and ordering platform, covering sample submission, order tracking, and result delivery. Lots of small iterations, real customer feedback, and figuring out what makes life easier for the people using it.
 
-[View the SeqForge project](https://github.com/Wendelllllll/seqforge-order-system-v2)
+[See what I'm building](https://github.com/Wendelllllll/seqforge-order-system-v2)
