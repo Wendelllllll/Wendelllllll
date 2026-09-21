@@ -1,32 +1,24 @@
-<img src="./assets/interface.svg" width="100%" alt="Jose Wang — Biology / Data / Software" />
+# Jose Wang
 
-**Hao Jose Wang · San Diego**
+I'm based in San Diego, with a background in molecular biology, drug discovery, and an M.S. in Data Science from UC San Diego. I build projects that connect scientific questions with data and software.
 
-UC San Diego **M.S. Data Science** (2026, GPA 4.0) · UC Riverside **B.S. Molecular Biology** (2023, cum laude)
+[LinkedIn](https://www.linkedin.com/in/wendelll/) · [Email](mailto:wendellwang468@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/wendelll/) · [Contact](mailto:wendellwang468@gmail.com)
+## How I build
 
-### Selected work
+I start by listing what needs to be done, then work through it one item at a time. I usually build a demo early so I can try things out and see what needs to change.
 
-| Project | Focus |
-| :--- | :--- |
-| **[SeqForge](https://github.com/Wendelllllll/seqforge-order-system-v2)** | Sequencing order platform: sample intake, laboratory review, result delivery. Next.js, TypeScript, PostgreSQL. In development. |
-| **Clinical outcomes** | Cox survival analysis of 1,197 patients with type 2 diabetes; SGLT2 inhibitor exposure and kidney-function decline. |
-| **NASA telemetry** | Time-series anomaly detection with leakage-aware training and evaluation. |
+I use AI as part of my workflow, while keeping the work within what I can understand, review, and control. My projects keep evolving as new ideas come up. I also follow new technologies, learn how they work, and look for useful ways to apply them to what I'm building.
 
-### Research & industry
+## Previous projects
 
-**BeiGene · Scientist I / R&D Intern**  
-Cancer-cell studies, NGS sample preparation, TP53 mutation screening and drug-response analysis.
+- **Clinical outcomes analysis** — Studied SGLT2 inhibitor exposure and kidney-function decline in a cohort of 1,197 patients with type 2 diabetes using Cox survival models.
+- **NASA telemetry anomaly detection** — Built time-series modeling workflows with separate training and test data to avoid information leakage.
 
-**Nan Hao Lab · UC San Diego**  
-Yeast research, single-cell microscopy and automated image-processing / quality-control workflows.
+## Current focus
 
-**Meng Chen Lab · UC Riverside**  
-Plant signaling, genotyping and quantitative confocal-image analysis.
+I'm building the website and ordering platform for **SeqForge**, an established sequencing company formerly known as **Retrogen**. The existing web experience needs an update, and I'm working on both the public website and the customer workflow—from sample submission to order tracking and result delivery.
 
-### Tools
+The project is in active development, with updates shaped by customer feedback and the lab's day-to-day needs.
 
-Python · R · MATLAB · SQL · Bash  
-pandas · NumPy · scikit-learn · OpenCV · ImageJ  
-Survival analysis · Time series · Microscopy · NGS sample preparation
+[View the SeqForge project](https://github.com/Wendelllllll/seqforge-order-system-v2)
