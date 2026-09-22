@@ -2,7 +2,7 @@
 
 Hey, I'm Jose. Based in San Diego, with a background in molecular biology, drug discovery, and an M.S. in Data Science from UC San Diego. These days, I'm putting that mix to work through data projects and software for science.
 
-[LinkedIn](https://www.linkedin.com/in/wendelll/) · [Email](mailto:wendellwang468@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/wendelll/) · [Email](mailto:wendellwang468@gmail.com) · [Resume](Hao_Wang_Resume.pdf)
 
 ## How I build
 
